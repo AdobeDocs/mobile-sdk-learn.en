@@ -1,6 +1,7 @@
 ---
 cloud: experience platform
 product: mobile sdk
+solution: SDKs and Validation Tools
 solution-title: Documentation
 solution-hub-url: https://aep-sdks.gitbook.io/docs/
 getting-started-title: Experience League
