@@ -1,6 +1,6 @@
 ---
-cloud: experience-platform
-product: adobe experience platform mobile sdk
+cloud: experience platform
+product: mobile sdk
 solution-title: Documentation
 solution-hub-url: https://aep-sdks.gitbook.io/docs/
 getting-started-title: Experience League
