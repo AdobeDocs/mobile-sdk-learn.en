@@ -5,6 +5,8 @@ description: A collection of how-to videos and tutorials to make you a power-use
 
 # Adobe Experience Platform Mobile SDK Tutorials
 
+Tutorials and videos to help you master the Adobe Experience Platform Mobile SDK.
+
 ## What's New
 
 * **[Understanding the Adobe Experience Platform Mobile SDK (Video)](fundamentals/understanding-the-mobile-sdks.md)**
