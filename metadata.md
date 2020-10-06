@@ -7,7 +7,7 @@ solution-hub-url: https://aep-sdks.gitbook.io/docs/
 getting-started-title: Experience League
 getting-started-url: https://experienceleague.adobe.com/#recommended/solutions/experience-platform
 tutorials-title: Tutorials
-tutorials-url: /content/help/en/mobile-sdk-learn/tutorials/overview.html
+tutorials-url: https://docs.adobe.com/content/help/en/mobile-sdk-learn/tutorials/overview.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/mobile-sdk-learn.en
 index: yes
