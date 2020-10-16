@@ -10,11 +10,9 @@ Tutorials and videos to help you master the Adobe Experience Platform Mobile SDK
 ## What's New
 
 * **[Understanding the Adobe Experience Platform Mobile SDK (Video)](fundamentals/understanding-the-mobile-sdks.md)**
-    <br>
     *Power end-to-end engagement in your mobile apps.*
 
 * **[Implement the Adobe Experience Platform Mobile SDK in Android Apps (Tutorial)](https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)**
-    <br>
     *A step-by-step tutorial to learn how to implement the new mobile SDK in Android&trade; apps.*
 
 ## Staff Picks
