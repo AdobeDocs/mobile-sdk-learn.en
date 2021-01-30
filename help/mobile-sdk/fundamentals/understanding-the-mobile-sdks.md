@@ -5,9 +5,9 @@ kt: kt-3698
 thumbnail: 
 ---
 
-# Understanding the Adobe Experience Platform Mobile SDKs
+# Understanding the Adobe Experience Platform [!UICONTROL Mobile] SDKs
 
-The Adobe Experience Platform Mobile SDKs power end-to-end engagement in your mobile applications by helping you acquire, analyze, engage, and optimize. Highly performant, modular, extensible, and integrated with Experience Platform Launch. Launch's sophisticated rules engine, permissions and publishing workflows helps you efficiently implement Adobe Analytics, Campaign, Audience Manager, Target and third party solutions in your mobile apps.
+The Adobe Experience Platform [!UICONTROL Mobile] SDKs power end-to-end engagement in your mobile applications by helping you acquire, analyze, engage, and optimize. Highly performant, modular, extensible, and integrated with Experience Platform Launch. Experience Platform Launch's sophisticated rules engine, permissions and publishing workflows helps you efficiently implement Adobe Analytics, Campaign, Audience Manager, [!DNL Target] and third-party solutions in your mobile apps.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28948?quality=12)
 
