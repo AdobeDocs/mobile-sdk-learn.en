@@ -1,7 +1,7 @@
 ---
 title: Creating Mobile Properties in Experience Platform Launch
 description: Learn how to create Mobile properties in Adobe Experience Platform Launch.
-solution: Mobile SDK, Launch, Experience Platform
+solution: Data Collection, Launch, Experience Platform
 feature: Properties
 kt: 
 thumbnail: 

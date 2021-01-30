@@ -1,7 +1,7 @@
 ---
 cloud: experience platform
 product: mobile sdk
-solution: Experience Platform, Mobile SDK
+solution: Experience Platform, Data Collection
 role: Developer, Data Engineer
 solution-title: Documentation
 solution-hub-url: https://aep-sdks.gitbook.io/docs/
