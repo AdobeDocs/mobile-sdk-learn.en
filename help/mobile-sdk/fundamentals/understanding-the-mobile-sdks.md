@@ -1,12 +1,8 @@
 ---
 title: Understanding the Adobe Experience Platform Mobile SDKs
 description: Learn how the Adobe Experience Platform Mobile SDKs help you efficiently implement Adobe Analytics, Campaign, Audience Manager, Target and third party solutions in your mobile apps.
-feature: 
-topics: 
 kt: kt-3698
-audience: 
-doc-type: video
-activity: understand 
+thumbnail: 
 ---
 
 # Understanding the Adobe Experience Platform Mobile SDKs

@@ -12,7 +12,7 @@ Tutorials and videos to help you master the Adobe Experience Platform Mobile SDK
 * **[Understanding the Adobe Experience Platform Mobile SDK (Video)](fundamentals/understanding-the-mobile-sdks.md)**
     *Power end-to-end engagement in your mobile apps.*
 
-* **[Implement the Adobe Experience Platform Mobile SDK in Android Apps (Tutorial)](https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)**
+* **[Implement the Adobe Experience Platform Mobile SDK in Android Apps (Tutorial)](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)**
     *A step-by-step tutorial to learn how to implement the new mobile SDK in Android&trade; apps.*
 
 ## Staff Picks
@@ -20,11 +20,11 @@ Tutorials and videos to help you master the Adobe Experience Platform Mobile SDK
 <table>
 <tr>
 <td>
-    <a href="https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html">
       <img alt="Implement in Android&trade; Apps" src="assets/thumb_android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html">
     <strong>Implement in Android&trade; Apps</strong>
     </a>
     </div>
@@ -33,11 +33,11 @@ Tutorials and videos to help you master the Adobe Experience Platform Mobile SDK
     <p>
 </td>
 <td>
-    <a href="https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
       <img alt="Implement in iOS Objective-C&trade; Apps" src="assets/thumb_objectiveC.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
     <strong>Implement in iOS Objective-C&trade; Apps</strong>
     </a>
     </div>
@@ -46,11 +46,11 @@ Tutorials and videos to help you master the Adobe Experience Platform Mobile SDK
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
       <img alt="Implement in iOS Swift&trade; Apps" src="assets/thumb_swift.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
     <strong>Implement in iOS Swift&trade; Apps</strong>
     </a>
     </div>
