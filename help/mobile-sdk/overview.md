@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Platform Mobile SDK Tutorials
 description: A collection of how-to videos and tutorials to make you a power-user of Adobe Experience Platform Mobile SDK
+exl-id: 55f14152-67a7-442d-90bf-1840cd8f8ca6
 ---
-
 # Adobe Experience Platform Mobile SDK Tutorials
 
 Tutorials and videos to help you master the Adobe Experience Platform Mobile SDK.

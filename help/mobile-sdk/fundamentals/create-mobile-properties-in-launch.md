@@ -4,9 +4,9 @@ description: Learn how to create Mobile properties in Adobe Experience Platform 
 solution: Data Collection, Experience Platform Launch, Experience Platform
 feature: Properties
 kt: 
-thumbnail: 
+thumbnail:
+exl-id: 58403c97-679d-4dfb-93f9-9b23408a485c
 ---
-
 # Create [!UICONTROL Mobile] Properties in Adobe Experience Platform Launch
 
 To start implementing the SDK, you'll need to first create a [!UICONTROL Mobile] property in Adobe Experience Platform Launch. You'll setup configuration required by the [!UICONTROL Mobile Core] and any extensions you add, and then publish the configuration into an Environment. When you implement the SDK in your app, you'll reference the Environment to get going. This video walks you through the process.
